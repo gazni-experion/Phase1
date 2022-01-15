@@ -1,0 +1,21 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    display: inline-block;
+    position: relative;
+   
+}
+
+body{
+    background-color: dodgerblue;
+}
+
+#btn{
+    margin-left:auto ;
+    margin-block-end: auto;
+    margin-block-end: auto;
+    margin-right: auto;
+    border-left: solid coral 10px;
+}
+
